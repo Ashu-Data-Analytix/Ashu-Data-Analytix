@@ -7,15 +7,13 @@ Passionate about transforming raw data into meaningful insights, I specialize in
 
 
 ### 📫Committed to continuous learning, refining analytical skills, and turning data into actionable strategies. 🚀😊  
-
 ---
 ### 💼 Tools & Skills
-- Excel (Vlookup + Match, Pivot Tables, Dashboards, Power Query, Google sheet)
-- SQL & Data Cleaning (Where, Have , Aggregation Function, CTE, Group By, Sub Queries, Join)
-- Microsoft Power BI (ETL, Extraction, Transformation, Loading, Modelling, Measures, etc)
-- Python (Pandas, NumPy, Matplotlib, Plotly, Graph : Scatterplot, Boxplot, Barplot, pie, etc)
+- **Excel:** VLOOKUP, INDEX/MATCH, Pivot Tables, Dashboards, Power Query, Google Sheets  
+- **SQL & Data Cleaning:** WHERE, HAVING, Aggregate Functions, CTEs, GROUP BY, Subqueries, JOINs  
+- **Microsoft Power BI:** ETL (Extraction, Transformation, Loading), Data Modeling, DAX Measures  
+- **Python:** Pandas, NumPy, Matplotlib, Plotly; Visualizations (Scatter Plot, Box Plot, Bar Plot, Pie Chart)  
 ---
 
 📫 **Connect with me:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-AshuTiwari-blue?logo=linkedin)](www.linkedin.com/in/ashu-tiwari-277b75344)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AshuTiwari-blue?logo=linkedin)](https://www.linkedin.com/in/ashu-tiwari-277b75344)
