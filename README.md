@@ -15,5 +15,7 @@ Passionate about transforming raw data into meaningful insights, I specialize in
 - **Python:** Pandas, NumPy, Matplotlib, Plotly; Visualizations (Scatter Plot, Box Plot, Bar Plot, Pie Chart)  
 ---
 
-📫 **Connect with me:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-AshuTiwari-blue?logo=linkedin)](https://www.linkedin.com/in/ashu-tiwari-277b75344)
+📫**Connect with me:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AshuTiwari-blue?logo=linkedin)](https://www.linkedin.com/in/ashu-tiwari-277b75344)    
+[![YouTube](https://img.shields.io/badge/YouTube-DataAnalytix__Code-red?logo=youtube&logoColor=white)](https://www.youtube.com/@DataAnalytix_Code)                                 
+[![Instagram](https://img.shields.io/badge/Instagram-_data_analytix-purple?logo=instagram&logoColor=white)](https://www.instagram.com/_data_analytix/)
