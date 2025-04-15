@@ -18,6 +18,10 @@ Passionate about transforming raw data into meaningful insights, I specialize in
 
 ---
 
+
+![](https://github.com/Ashu-Data-Analytix/Ashu-Data-Analytix/blob/main/image%20(2).png?raw=true)
+
+---
 ### 📫**Connect with me:**  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-AshuTiwari-blue?logo=linkedin)](https://www.linkedin.com/in/ashu-tiwari-277b75344)    
